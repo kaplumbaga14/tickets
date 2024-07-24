@@ -1,5 +1,5 @@
 {
-  "name": "Godzilla",
+  "name": "kaplumbaga-ticket-bot",
   "version": "4.0.0",
   "description": "V14 Formlu Destek Sistemi Altyapısı!",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ly3ssia",
+  "author": "kaplumbaga",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",
