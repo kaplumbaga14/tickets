@@ -1,1 +1,5 @@
-License Its protected by Creative Commons CC BY-NC-SA 4.0 image
+Bot tarafımca yapılmıştır.
+
+Basit bir bottur, daha iyilerini profilimde bulabilirsiniz.
+
+Botlar hakkında özel olarak bir destek sağlamıyorum !
